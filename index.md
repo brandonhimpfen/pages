@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Home
-description: Brandon Travel Pages is a merged reference site covering travel intelligence, practical travel pages, digital references, and technology pages.
+description: Brandon Himpfen Pages is a merged reference site covering travel intelligence, practical travel pages, digital references, and technology pages.
 ---
 
 <section class="hero-section py-5 py-lg-6">
   <div class="container position-relative">
     <div class="row align-items-center g-4 g-xl-5">
       <div class="col-lg-7">
-        <span class="eyebrow">Brandon Travel Pages</span>
+        <span class="eyebrow">Brandon Himpfen Pages</span>
         <h1 class="display-4 fw-bold mt-3 mb-3">One merged pages site for travel, digital, and technology references.</h1>
         <p class="hero-copy mb-4">This merged site keeps the design-site theme and combines its original pages with the pages from pages-site-2 and pages-site-3. The result is a broader reference hub with travel intelligence tables, practical mobility pages, digital references, and technology explainers.</p>
         <div class="d-flex flex-wrap gap-3">
