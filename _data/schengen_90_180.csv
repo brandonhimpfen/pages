@@ -1,0 +1,5 @@
+Example,Planned days in Schengen,Rolling 180-day logic (summary),Result,Notes
+Example A (simple),"Day 1 → Day 30 (30 days)","Only one trip in last 180 days","OK","You used 30/90 days"
+Example B (two trips),"Trip 1: 45 days; Trip 2: 50 days within same 180 window","45 + 50 = 95","Not OK","Second trip must be shortened by 5 days or delayed"
+Example C (staggered),"Trip 1: 60 days; Exit 90 days; Trip 2: 30 days","At start of Trip 2, earlier days may still be in window","Depends","If first trip days still inside rolling window, you may have limited remaining days"
+Example D (frequent weekends),"Multiple short trips over 6 months","Each day you are present counts","Often surprises","Track entry/exit precisely"

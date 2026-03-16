@@ -1,0 +1,7 @@
+Scenario,Domestic (minutes),International (minutes),Notes
+No checked bag,120,180,"Baseline arrival buffer at airport"
+Checked bag,150,210,"Add time for bag drop and lines"
+Peak travel day (+30 min),150,210,"Weekends/holidays; busy seasons"
+Small/regional airport (-20 min),100,160,"Only if airport is reliably fast"
+Security/immigration risk (+30-60 min),180,240,"When screening/controls are unpredictable"
+Transit to airport (add),"+ travel time","+ travel time","Add realistic ground transit + contingency"

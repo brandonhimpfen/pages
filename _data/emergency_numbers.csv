@@ -1,0 +1,54 @@
+Country,Police,Ambulance,Fire,Notes
+Canada,911,911,911,Works nationwide
+United States,911,911,911,Works nationwide
+United Kingdom,999 / 112,999 / 112,999 / 112,112 works across UK
+Ireland,999 / 112,999 / 112,999 / 112,112 works nationwide
+France,17,15,18,112 also works in EU
+Germany,110,112,112,112 medical/fire
+Italy,112,118,115,112 works across Italy
+Spain,091 / 112,061 / 112,080 / 112,112 works nationwide
+Portugal,112,112,112,Single emergency number
+Netherlands,112,112,112,Single emergency number
+Belgium,101 / 112,112,112,101 police in some cases
+Switzerland,117,144,118,112 also works
+Austria,133 / 112,144 / 112,122 / 112,112 works nationwide
+Greece,100 / 112,166 / 112,199 / 112,112 works nationwide
+Turkey,155 / 112,112,110,112 common for medical
+Croatia,192 / 112,194 / 112,193 / 112,112 works nationwide
+Poland,997 / 112,999 / 112,998 / 112,112 works nationwide
+Czechia,158 / 112,155 / 112,150 / 112,112 works nationwide
+Hungary,107 / 112,104 / 112,105 / 112,112 works nationwide
+Romania,112,112,112,Single emergency number
+Bulgaria,112,112,112,Single emergency number
+Sweden,112,112,112,Single emergency number
+Norway,112,113,110,Separate services
+Denmark,112,112,112,Single emergency number
+Finland,112,112,112,Single emergency number
+Iceland,112,112,112,Single emergency number
+Japan,110,119,119,Police separate
+South Korea,112,119,119,Police separate
+China,110,120,119,Separate services
+Hong Kong,999,999,999,Single emergency number
+Taiwan,110,119,119,Police separate
+Singapore,999,995,995,995 ambulance/fire
+Thailand,191,1669,199,Separate services
+Vietnam,113,115,114,Separate services
+Malaysia,999,999,999,Single emergency number
+Indonesia,110,118 / 119,113,Varies by region
+Philippines,911,911,911,Works in many areas
+India,112,112,112,Single emergency number
+Sri Lanka,119,110,110,Police 119 common
+United Arab Emirates,999,998,997,Separate services
+Israel,100,101,102,Separate services
+Jordan,911,911,911,National emergency
+Egypt,122,123,180,Separate services
+Morocco,19,15,15,May vary by city
+South Africa,10111,10177,10177,10111 police
+Mexico,911,911,911,Single emergency number
+Brazil,190,192,193,Separate services
+Argentina,911,107,100,May vary by province
+Chile,133,131,132,Separate services
+Colombia,123,123,123,Single emergency number
+Peru,105,106,116,Separate services
+Australia,000,000,000,Single emergency number
+New Zealand,111,111,111,Single emergency number
