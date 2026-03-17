@@ -13,7 +13,7 @@ permalink: /airport-buffer-time/
 
 <div class="page-shell">
 <p><a class="btn btn-primary"
-   href="https://tools.solotraveler.org/tools/airport-buffer-calculator/"
+   href="https://tools.himpfen.com/airport-buffer-calculator/"
    target="_blank"
    rel="noopener">
   Open Airport Buffer Calculator →
